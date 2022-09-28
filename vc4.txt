@@ -1,0 +1,3 @@
+hello this is the file having vowels
+and this line contains 9 vowels
+ok bye
